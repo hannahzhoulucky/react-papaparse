@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bunlong/react-papaparse.git"
+    "url": "git+https://github.com/hannahzhoulucky/react-papaparse.git"
   },
   "bugs": {
-    "url": "https://github.com/Bunlong/react-papaparse.git/issues"
+    "url": "https://github.com/hannahzhoulucky/react-papaparse.git"
   },
   "keywords": [
     "react",
